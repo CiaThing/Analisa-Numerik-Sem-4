@@ -1,0 +1,9 @@
+Catatan review 
+
+Metode tertutup : metode yang menjamin konvergensi
+
+konvergensi : tidak akan longkap pada akar".
+
+
+Metode terbuka : metode yang ambisius/antisius dengan maksud melampaui pencapaian daripada metode tertutup (iterasinya lebih sedikit). Akibatnya metode ini bisa mengalami longkapnya akar dalam pencarian akar ( tidak konvergen ).
+
